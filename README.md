@@ -1,4 +1,4 @@
-# TheLTDController
+# The LTD Controller
 The Low Temperature Dehydration Controller
   - Using 3 DHT11 sensors to measure the temperature and moisture of the storage room. 
   - LEDs simulates for the operations of heater, heatpump and three fans.
